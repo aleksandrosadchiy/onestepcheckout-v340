@@ -1,0 +1,68 @@
+app/code/local/Magestore/*								                            app/code/local/Magestore
+app/design/adminhtml/default/default/layout/erp_plus.xml                            app/design/adminhtml/default/default/layout/erp_plus.xml
+app/design/adminhtml/default/default/layout/magenotification.xml                    app/design/adminhtml/default/default/layout/magenotification.xml
+app/design/adminhtml/default/default/layout/onestepcheckout.xml                     app/design/adminhtml/default/default/layout/onestepcheckout.xml
+
+
+app/design/adminhtml/default/default/template/erp_plus/*                            app/design/adminhtml/default/default/template/erp_plus
+app/design/adminhtml/default/default/template/magenotification/*                    app/design/adminhtml/default/default/template/magenotification
+app/design/adminhtml/default/default/template/onestepcheckout/*                     app/design/adminhtml/default/default/template/onestepcheckout
+
+app/design/frontend/base/default/layout/onestepcheckout/action.xml                  app/design/frontend/base/default/layout/onestepcheckout/action.xml
+app/design/frontend/base/default/layout/onestepcheckout/handle.xml                  app/design/frontend/base/default/layout/onestepcheckout/handle.xml
+app/design/frontend/base/default/template/onestepcheckout/flat/*                    app/design/frontend/base/default/template/onestepcheckout/flat
+app/design/frontend/base/default/template/onestepcheckout/flatnew/*                 app/design/frontend/base/default/template/onestepcheckout/flatnew
+app/design/frontend/base/default/template/onestepcheckout/material/*                app/design/frontend/base/default/template/onestepcheckout/material
+
+app/etc/modules/Magestore_ERPplus.xml               								app/etc/modules/Magestore_ERPplus.xml
+app/etc/modules/Magestore_Magenotification.xml               						app/etc/modules/Magestore_Magenotification.xml
+app/etc/modules/Magestore_Onestepcheckout.xml               						app/etc/modules/Magestore_Onestepcheckout.xml
+app/etc/modules/Magestore_PaypalBNCode.xml               							app/etc/modules/Magestore_PaypalBNCode.xml
+
+app/locale/en_US/template/email/sales/new_order_notification.html                   app/locale/en_US/template/email/sales/new_order_notification.html
+app/locale/en_US/Magestore_Onestepcheckout.csv                                      app/locale/en_US/Magestore_Onestepcheckout.csv
+
+js/magestore/*                                                                      js/magestore
+js/tinybox/tinybox.js                                                               js/tinybox/tinybox.js
+
+skin/adminhtml/default/default/css/magestore/*                                      skin/adminhtml/default/default/css/magestore
+skin/adminhtml/default/default/css/tinybox/images/preload.gif                       skin/adminhtml/default/default/css/tinybox/images/preload.gif
+skin/adminhtml/default/default/css/tinybox/images/rhino.jpg                         skin/adminhtml/default/default/css/tinybox/images/rhino.jpg
+skin/adminhtml/default/default/css/tinybox/style.css                                skin/adminhtml/default/default/css/tinybox/style.css
+
+
+skin/adminhtml/default/default/images/onestepcheckout/style/black.png               skin/adminhtml/default/default/images/onestepcheckout/style/black.png
+skin/adminhtml/default/default/images/onestepcheckout/style/blue.png                skin/adminhtml/default/default/images/onestepcheckout/style/blue.png
+skin/adminhtml/default/default/images/onestepcheckout/style/darkblue.png            skin/adminhtml/default/default/images/onestepcheckout/style/darkblue.png
+skin/adminhtml/default/default/images/onestepcheckout/style/green.png               skin/adminhtml/default/default/images/onestepcheckout/style/green.png
+skin/adminhtml/default/default/images/onestepcheckout/style/orange.png              skin/adminhtml/default/default/images/onestepcheckout/style/orange.png
+skin/adminhtml/default/default/images/onestepcheckout/style/pink.png                skin/adminhtml/default/default/images/onestepcheckout/style/pink.png
+skin/adminhtml/default/default/images/onestepcheckout/style/red.png                 skin/adminhtml/default/default/images/onestepcheckout/style/red.png
+skin/adminhtml/default/default/images/onestepcheckout/style/violet.png              skin/adminhtml/default/default/images/onestepcheckout/style/violet.png
+
+
+
+skin/adminhtml/default/default/images/ajax-loader.gif                               skin/adminhtml/default/default/images/ajax-loader.gif
+skin/adminhtml/default/default/images/ajax-loader.jpg                               skin/adminhtml/default/default/images/ajax-loader.jpg
+skin/adminhtml/default/default/images/error_msg_icon.gif                            skin/adminhtml/default/default/images/error_msg_icon.gif
+skin/adminhtml/default/default/images/fam_bullet_error.gif                          skin/adminhtml/default/default/images/fam_bullet_error.gif
+skin/adminhtml/default/default/images/fam_bullet_success.gif                        skin/adminhtml/default/default/images/fam_bullet_success.gif
+skin/adminhtml/default/default/images/note_msg_icon.gif                             skin/adminhtml/default/default/images/note_msg_icon.gif
+skin/adminhtml/default/default/images/transfer-ajax-loader.gif                      skin/adminhtml/default/default/images/transfer-ajax-loader.gif
+skin/adminhtml/default/default/images/transfer-ajax-loader.jpg                      skin/adminhtml/default/default/images/transfer-ajax-loader.jpg
+
+
+skin/frontend/base/default/css/magestore/onestepcheckout/flat/onestepcheckout.css       skin/frontend/base/default/css/magestore/onestepcheckout/flat/onestepcheckout.css
+skin/frontend/base/default/css/magestore/onestepcheckout/flatnew/onestepcheckout.css    skin/frontend/base/default/css/magestore/onestepcheckout/flatnew/onestepcheckout.css
+skin/frontend/base/default/css/magestore/onestepcheckout/material/onestepcheckout.css    skin/frontend/base/default/css/magestore/onestepcheckout/material/onestepcheckout.css
+
+
+skin/frontend/base/default/css/magestore/mobileonestepcheckout.css                  skin/frontend/base/default/css/magestore/mobileonestepcheckout.css
+skin/frontend/base/default/css/magestore/tinybox.css                                skin/frontend/base/default/css/magestore/tinybox.css
+
+skin/frontend/base/default/images/geoip/indicator.gif                               skin/frontend/base/default/images/geoip/indicator.gif
+skin/frontend/base/default/images/onestepcheckout/*                                 skin/frontend/base/default/images/onestepcheckout
+
+skin/frontend/base/default/onestepcheckout/js/sagePaySuite_Checkout.js              skin/frontend/base/default/onestepcheckout/sagePaySuite_Checkout.js
+
+skin/frontend/default/default/css/magestore/*                                       skin/frontend/default/default/css/magestore
