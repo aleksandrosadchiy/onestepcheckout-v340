@@ -28,6 +28,9 @@ app/locale/de_DE/Magestore_Onestepcheckout.csv                                  
 app/locale/zh_CN/template/email/sales/new_order_notification.html                   app/locale/zh_CN/template/email/sales/new_order_notification.html
 app/locale/zh_CN/Magestore_Onestepcheckout.csv                                      app/locale/zh_CN/Magestore_Onestepcheckout.csv
 
+app/locale/zh_CN/template/email/sales/new_order_notification.html                   app/locale/zh_TW/template/email/sales/new_order_notification.html
+app/locale/zh_CN/Magestore_Onestepcheckout.csv                                      app/locale/zh_TW/Magestore_Onestepcheckout.csv
+
 js/magestore/*                                                                      js/magestore
 js/tinybox/tinybox.js                                                               js/tinybox/tinybox.js
 
