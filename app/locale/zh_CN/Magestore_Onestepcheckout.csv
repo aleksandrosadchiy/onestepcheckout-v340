@@ -1,5 +1,8 @@
 "%s was added to your shopping cart.","%s 放入了购物车."
 "* Required Fields","* 必须信息"
+"First Name", "名"
+"Last Name","姓"
+"Email Address","电子邮箱"
 "Add New Address","添加新地址"
 "Add New Condition","Add New Condition"
 "Add to Cart","加入购物车"
