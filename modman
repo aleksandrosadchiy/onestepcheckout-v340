@@ -72,6 +72,6 @@ skin/frontend/base/default/css/magestore/tinybox.css                            
 skin/frontend/base/default/images/geoip/indicator.gif                               skin/frontend/base/default/images/geoip/indicator.gif
 skin/frontend/base/default/images/onestepcheckout/*                                 skin/frontend/base/default/images/onestepcheckout
 
-skin/frontend/base/default/onestepcheckout/js/sagePaySuite_Checkout.js              skin/frontend/base/default/onestepcheckout/sagePaySuite_Checkout.js
+skin/frontend/base/default/onestepcheckout/js/sagePaySuite_Checkout.js              skin/frontend/base/default/onestepcheckout/js/sagePaySuite_Checkout.js
 
 skin/frontend/default/default/css/magestore/*                                       skin/frontend/default/default/css/magestore
