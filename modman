@@ -8,11 +8,11 @@ app/design/adminhtml/default/default/template/erp_plus/*                        
 app/design/adminhtml/default/default/template/magenotification/*                    app/design/adminhtml/default/default/template/magenotification
 app/design/adminhtml/default/default/template/onestepcheckout/*                     app/design/adminhtml/default/default/template/onestepcheckout
 
-app/design/frontend/base/default/layout/onestepcheckout/action.xml                  app/design/frontend/smartwave/porto/layout/onestepcheckout/action.xml
-app/design/frontend/base/default/layout/onestepcheckout/handle.xml                  app/design/frontend/smartwave/porto/layout/onestepcheckout/handle.xml
-app/design/frontend/base/default/template/onestepcheckout/flat/*                    app/design/frontend/smartwave/porto/template/onestepcheckout/flat
-app/design/frontend/base/default/template/onestepcheckout/flatnew/*                 app/design/frontend/smartwave/porto/template/onestepcheckout/flatnew
-app/design/frontend/base/default/template/onestepcheckout/material/*                app/design/frontend/smartwave/porto/template/onestepcheckout/material
+app/design/frontend/base/default/layout/onestepcheckout/action.xml                  app/design/frontend/base/default/layout/onestepcheckout/action.xml
+app/design/frontend/base/default/layout/onestepcheckout/handle.xml                  app/design/frontend/base/default/layout/onestepcheckout/handle.xml
+app/design/frontend/base/default/template/onestepcheckout/flat/*                    app/design/frontend/base/default/template/onestepcheckout/flat
+app/design/frontend/base/default/template/onestepcheckout/flatnew/*                 app/design/frontend/base/default/template/onestepcheckout/flatnew
+app/design/frontend/base/default/template/onestepcheckout/material/*                app/design/frontend/base/default/template/onestepcheckout/material
 
 app/etc/modules/Magestore_ERPplus.xml               								app/etc/modules/Magestore_ERPplus.xml
 app/etc/modules/Magestore_Magenotification.xml               						app/etc/modules/Magestore_Magenotification.xml
@@ -61,17 +61,17 @@ skin/adminhtml/default/default/images/transfer-ajax-loader.gif                  
 skin/adminhtml/default/default/images/transfer-ajax-loader.jpg                      skin/adminhtml/default/default/images/transfer-ajax-loader.jpg
 
 
-skin/frontend/base/default/css/magestore/onestepcheckout/flat/onestepcheckout.css       skin/frontend/smartwave/porto/css/magestore/onestepcheckout/flat/onestepcheckout.css
-skin/frontend/base/default/css/magestore/onestepcheckout/flatnew/onestepcheckout.css    skin/frontend/smartwave/porto/css/magestore/onestepcheckout/flatnew/onestepcheckout.css
-skin/frontend/base/default/css/magestore/onestepcheckout/material/onestepcheckout.css    skin/frontend/smartwave/porto/css/magestore/onestepcheckout/material/onestepcheckout.css
+skin/frontend/base/default/css/magestore/onestepcheckout/flat/onestepcheckout.css       skin/frontend/base/default/css/magestore/onestepcheckout/flat/onestepcheckout.css
+skin/frontend/base/default/css/magestore/onestepcheckout/flatnew/onestepcheckout.css    skin/frontend/base/default/css/magestore/onestepcheckout/flatnew/onestepcheckout.css
+skin/frontend/base/default/css/magestore/onestepcheckout/material/onestepcheckout.css    skin/frontend/base/default/css/magestore/onestepcheckout/material/onestepcheckout.css
 
 
-skin/frontend/base/default/css/magestore/mobileonestepcheckout.css                  skin/frontend/smartwave/porto/css/magestore/mobileonestepcheckout.css
-skin/frontend/base/default/css/magestore/tinybox.css                                skin/frontend/smartwave/porto/css/magestore/tinybox.css
+skin/frontend/base/default/css/magestore/mobileonestepcheckout.css                  skin/frontend/base/default/css/magestore/mobileonestepcheckout.css
+skin/frontend/base/default/css/magestore/tinybox.css                                skin/frontend/base/default/css/magestore/tinybox.css
 
-skin/frontend/base/default/images/geoip/indicator.gif                               skin/frontend/smartwave/porto/images/geoip/indicator.gif
-skin/frontend/base/default/images/onestepcheckout/*                                 skin/frontend/smartwave/porto/images/onestepcheckout
+skin/frontend/base/default/images/geoip/indicator.gif                               skin/frontend/base/default/images/geoip/indicator.gif
+skin/frontend/base/default/images/onestepcheckout/*                                 skin/frontend/base/default/images/onestepcheckout
 
-skin/frontend/base/default/onestepcheckout/js/sagePaySuite_Checkout.js              skin/frontend/smartwave/porto/onestepcheckout/js/sagePaySuite_Checkout.js
+skin/frontend/base/default/onestepcheckout/js/sagePaySuite_Checkout.js              skin/frontend/base/default/onestepcheckout/js/sagePaySuite_Checkout.js
 
-skin/frontend/default/default/css/magestore/*                                       skin/frontend/smartwave/porto/css/magestore
+skin/frontend/default/default/css/magestore/*                                       skin/frontend/default/default/css/magestore
