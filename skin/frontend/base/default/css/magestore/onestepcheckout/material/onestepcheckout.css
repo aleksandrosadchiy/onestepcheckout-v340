@@ -1,4 +1,4 @@
-@import "http://roboto-webfont.googlecode.com/svn/trunk/roboto.all.css";
+@import "roboto.all.css";
 .clear{width:100%;height:0;clear:both;font-size:0;line-height:0}
 .one-step-checkout input[type=email],.one-step-checkout  input[type=search],.one-step-checkout  input[type=number],.one-step-checkout  input[type=password],.one-step-checkout  input[type=tel],.one-step-checkout  input[type=text] {
     width: 250px;
