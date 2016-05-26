@@ -28,7 +28,7 @@
 
 $smcode = Mage::getSingleton('checkout/session')->getQuote()->getShippingAddress()->getShippingMethod();
 if (!($_shippingRateGroups = $this->getShippingRates())): ?>
-    <p><?php echo $this->__('Sorry, no quotes are available for this order at this time.') ?></p>
+    <p class="error-msg"><?php echo $this->__('Sorry, no quotes are available for this order at this time.') ?></p>
 <?php else: ?>
     <?php $i=0;?>
     <dl class="sp-methods">
