@@ -18,7 +18,11 @@
                 <?php else: ?>
                         <span class="no-display"><input id="p_method_<?php echo $_code ?>" value="<?php echo $_code ?>" type="radio" name="payment[method]" checked="checked" class="radio validate-one-required-by-name " onclick="save_shipping_method(shipping_method_url,0,update_payment_review);" /></span>
                 <?php endif; ?>
-                <?php echo $this->getMethodTitle($_method) ?> <?php echo $this->getMethodLabelAfterHtml($_method) ?></label>
+                <?php if($_method->getLogo()): ?>
+                    <img src="<?php echo $_method->getLogo() ?> ">
+                <?php else: ?>
+                    <?php echo $this->getMethodTitle($_method)?> <?php echo $this->getMethodLabelAfterHtml($_method) ?></label>
+                <?php endif; ?>
 		</dt>
 		<?php if ($html = $this->getPaymentMethodFormHtml($_method)): ?>
 		<dd id="container_payment_method_<?php echo $_code; ?>" class="payment-method">
